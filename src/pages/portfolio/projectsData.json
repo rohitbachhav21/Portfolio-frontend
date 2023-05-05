@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Twitter-Clone (Only for Desktop)",
+    "image": "./projectImages/twitter.jpeg",
+    "description": "Twitter clone with some extra features like phone login system, Twitter Blue as a subscription model created using stripe payment gateway, and account/profile privacy feature.",
+    "technologies": "MERN STACK AND FIREBASE",
+    "github": "",
+    "deployed": "https://steady-toffee-cc7be0.netlify.app/Login",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "News Application",
+    "image": "./projectImages/news1.png",
+    "technologies": "REACT, BOOTSTRAP AND NEWS API'S",
+    "description": "I was interested in creating a news application which allows user to read daily Indian news articles according to the categories like general, health, sports, business, education, technology, entertainment and science",
+    "github": "https://github.com/rohitbachhav21/NewsApplication",
+    "deployed": "",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  }
+]
+ 
